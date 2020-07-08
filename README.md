@@ -12,4 +12,4 @@ if not: `python app.py`
 5. You will need a .db file specifying at least city and beach for each Beach 
 
 6. You need to call the class Printer with the city name you want   
-### It's very easy to use, after you started app.py wait for the scraper to get the first result, if it's accurate, press 'f10', you can save it with the beach name using 'CTRL-V', if it's not accurate, skip the result with f9, if you want to pause it, press f8, to unpause press f8 again.
+### It's very easy to use, after you started app.py wait for the scraper to get the first result, if it's accurate, press f10, you can save it with the beach name using 'CTRL-V', if it's not accurate, skip the result with f9, if you want to pause it, press f8, to unpause press f8 again.
